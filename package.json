@@ -37,7 +37,7 @@
   "dependencies": {
     "fs-p": "2.0.0",
     "globby": "^6.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "typescript": "^2.2.2"
   },
   "jest": {
